@@ -8,9 +8,9 @@ body {
       rgba(0, 0, 0, 0.7),
       rgba(0, 0, 0, 0.7)
     ),
-    url("images/todo-lists.jpg");
+    url(../images/todo-lists.jpg);
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("images/todo-lists.jpg");
+    url(../images/todo-lists.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
