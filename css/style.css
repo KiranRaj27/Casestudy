@@ -9,9 +9,9 @@ body {
       rgba(0, 0, 0, 0.7),
       rgba(0, 0, 0, 0.7)
     ),
-    url("/images/successful-ge3b9b699a_1920.jpg");
+    url("images/successful-ge3b9b699a_1920.jpg");
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("/images/successful-ge3b9b699a_1920.jpg");
+    url("images/successful-ge3b9b699a_1920.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
